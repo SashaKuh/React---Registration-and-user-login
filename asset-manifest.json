@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.95f1a2ee.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.3c4b368b.js",
+    "static/js/945.5a2f069d.chunk.js": "/goit-react-hw-08-phonebook/static/js/945.5a2f069d.chunk.js",
+    "static/js/415.a0691f0a.chunk.js": "/goit-react-hw-08-phonebook/static/js/415.a0691f0a.chunk.js",
+    "static/js/426.58a16833.chunk.js": "/goit-react-hw-08-phonebook/static/js/426.58a16833.chunk.js",
+    "static/js/678.4551584d.chunk.js": "/goit-react-hw-08-phonebook/static/js/678.4551584d.chunk.js",
+    "static/js/616.3c5bd678.chunk.js": "/goit-react-hw-08-phonebook/static/js/616.3c5bd678.chunk.js",
+    "static/js/568.f368de58.chunk.js": "/goit-react-hw-08-phonebook/static/js/568.f368de58.chunk.js",
+    "static/js/597.ed3674df.chunk.js": "/goit-react-hw-08-phonebook/static/js/597.ed3674df.chunk.js",
+    "static/media/back.jpg": "/goit-react-hw-08-phonebook/static/media/back.ee6a050c230c4b20789c.jpg",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.95f1a2ee.css.map": "/goit-react-hw-08-phonebook/static/css/main.95f1a2ee.css.map",
+    "main.3c4b368b.js.map": "/goit-react-hw-08-phonebook/static/js/main.3c4b368b.js.map",
+    "945.5a2f069d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/945.5a2f069d.chunk.js.map",
+    "415.a0691f0a.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/415.a0691f0a.chunk.js.map",
+    "426.58a16833.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/426.58a16833.chunk.js.map",
+    "678.4551584d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/678.4551584d.chunk.js.map",
+    "616.3c5bd678.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/616.3c5bd678.chunk.js.map",
+    "568.f368de58.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/568.f368de58.chunk.js.map",
+    "597.ed3674df.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/597.ed3674df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f1a2ee.css",
+    "static/js/main.3c4b368b.js"
+  ]
+}
